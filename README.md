@@ -1,4 +1,4 @@
-# 🎧 Yeezy Clone Vinyl Website
+# 🎧 Yeezy Clone Vinyl Store
 
 A modern ReactJS clone of the official Yeezy vinyl website showcasing Kanye West’s iconic album vinyls with a clean, minimal design.
 
@@ -33,3 +33,4 @@ npm install
 
 # Start the app
 npm start
+
